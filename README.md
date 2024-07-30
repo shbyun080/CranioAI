@@ -1,4 +1,4 @@
-# Cranio_AI (Official Repository)
+# CranioAI (Official Repository)
 
 AIVR 2023 Publication
 
